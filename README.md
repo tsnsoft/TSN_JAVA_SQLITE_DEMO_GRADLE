@@ -1,4 +1,4 @@
-# TSN_JAVA_SQLITE_DEMO
+# TSN_JAVA_SQLITE_DEMO_GRADLE
 Простейший пример работы с базой данных SQLite через JDBC в NetBeans с Gradle
 
 **build.gradle:**
